@@ -1,6 +1,6 @@
 class Position:
     """
-    This class is keeps track of the  x,y positions of the rover. 
+    This class keeps track of the  x,y positions of the rover. 
     """
     x = 0
     y = 0

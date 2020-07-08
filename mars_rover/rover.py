@@ -25,7 +25,7 @@ class Rover(object):
 
     def __init__(self, plateau, position, facing):
         """
-        Initializing rover with below params
+        Initializing rover with following params:-
         :param plateau: Rectangular Area for the rover to travell. 
         :param position: x and y coordinates of the rover from Position class
         :param facing: The direction in which the rover is facing
